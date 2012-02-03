@@ -1,2 +1,3 @@
 time mvn -q exec:java -Dexec.mainClass="net.projecteuler.seanahan.Problem1"
 time mvn -q exec:java -Dexec.mainClass="net.projecteuler.seanahan.Problem2"
+time mvn -q exec:java -Dexec.mainClass="net.projecteuler.seanahan.Problem5" -Dexec.args="20"
